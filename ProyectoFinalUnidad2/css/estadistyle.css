@@ -1,0 +1,75 @@
+.hoja2{
+    background: black;
+    color: white;
+    text-align: center;
+    height: 170px;
+}
+
+.cuadro4{
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.cuadro5{
+    color: black;
+    background:white;
+    text-align: center;
+    height: 500px;
+}
+
+.imagen11{
+    text-align: center;
+}
+.cuadro1{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.cuadro2{
+    background:purple;
+    color: white;
+    text-align: center;
+}
+
+.cuad{
+    background:green;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.cuadroultimo{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+@media screen and (max-width:990px) {
+    .bajar{
+        margin-top: 500px;
+    }
+.video{
+    height: 525px;
+    background: gra;
+}
+}
+
+
+.lista{
+    list-style: none;
+    color:black;
+}
+
+
+.resaltar1{
+    background: white;
+    color:red;
+}
+
+.resaltar2{
+    background:white;
+    color:green;
+}
